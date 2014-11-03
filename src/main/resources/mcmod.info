@@ -1,14 +1,14 @@
 [
 {
-  "modid": "basemod",
-  "name": "Base Mod",
-  "description": "Base mod to build from.",
-  "version": "0.0.0",
+  "modid": "loaderlist",
+  "name": "LoaderList",
+  "description": "Logs chunk forcing and unforcing activity.",
+  "version": "0.1",
   "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ModDeveloper"],
-  "credits": "TehNut for creating this base for me.",
+  "authorList": ["Tombenpotter", "TehNut"],
+  "credits": "Tom for original code, Nut for porting to separate mod.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
